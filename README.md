@@ -1,1 +1,1 @@
-# Leno-TT
+Leno TT is a sleek and modern design website showcasing an app called Leno. Leno is an app geared at boosting your productivity and improving your health. It's an all-in-one solution for developers and creators
