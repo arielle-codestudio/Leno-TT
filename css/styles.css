@@ -556,7 +556,11 @@ text-align: left;
   justify-content: center;
 }
 
-
+/* Inner Header */
+.inner-header {
+  background: #000 url(../images/header-background.jpg) center center/cover no-repeat;
+  padding: 10rem 2rem 6rem;
+}
 
 
 /* Media Queries */
